@@ -1,5 +1,4 @@
 FROM ghcr.io/linuxserver/baseimage-ubuntu:noble
-LABEL maintainer="Julio Gutierrez julio.guti+nordvpn@pm.me"
 
 ARG NORDVPN_VERSION=4.0.0
 ARG DEBIAN_FRONTEND=noninteractive
